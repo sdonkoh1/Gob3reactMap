@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>All this commit</Text>
+      <Text>again and again</Text>
       <StatusBar style="auto" />
     </View>
   );
